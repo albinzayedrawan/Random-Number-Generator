@@ -7,10 +7,11 @@
 - Comment on whether the numbers appear evenly distributed or show any discernible patterns.
 
 ## Linear Congruential Generator (LCG):
--Implement an LCG, a common PRNG algorithm, in Python using the following parameters:
-▪ Modulus m=2^31−1
-▪ Multiplier a=1103515245
-▪ Increment c=12345
+- Implement an LCG, a common PRNG algorithm, in Python using any parameters of your choice.
 - Generate a sequence of 100 numbers using the LCG, and record the results.
--Use a fixed seed to ensure repeatability, and plot the distribution of the generated
-numbers.
+- Use a fixed seed to ensure repeatability, and plot the distribution of the generated numbers.
+
+## Pseudo-Random Number Generator (PRNG):
+- Use Python’s built-in PRNG (random module) to generate another sequence of 100 numbers.
+- Set a fixed seed to make the results reproducible.
+- Record and plot the distribution of these numbers alongside the LCG-generated numbers.
