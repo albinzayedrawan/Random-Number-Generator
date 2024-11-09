@@ -1,4 +1,4 @@
-# Random-Number-Generator
+# Random Number Generator
 
 ## True Random Number Generator (TRNG):
 - Use an online TRNG service (e.g., random.org) or system-based entropy source (e.g., /dev/random) to collect 100 random numbers.
